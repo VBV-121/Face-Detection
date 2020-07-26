@@ -5,6 +5,7 @@ It is a machine learning based approach where a cascade function is trained from
 It is then used to detect Face in other images.
 
 >File Description
+
 capture.py -> To detect face using web cam of your Laptop / Desktop.
 script1.py -> To dectet face from a specified image file in the same directory, just replace line 5 with your file name.
 
